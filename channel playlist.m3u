@@ -295,7 +295,7 @@ http://103.165.93.31:8095/sonyYay/index.m3u8
 #EXTINF:-1 tvg-id="ts45" tvg-name="ASTHA HD" tvg-chno="512" group-title="Religious" logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png",ASTHA HD
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="ts421" tvg-name="SANSKAR HD" tvg-chno="580" group-title="Religious" logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/56888741566764sanskar.png",SANSKAR HD
+#EXTINF:-1 tvg-id="ts421" tvg-name="SANSKAR HD" tvg-chno="580" group-title="Religious" logo="https://drive.google.com/uc?id=18ygTXq6BQsnSUkXDCvLiFPLeQbHR6M7n",SANSKAR HD
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
 #EXTINF:-1 tvg-id="ts45" tvg-name="HARE KRISHNA" tvg-chno="512" group-title="Religious" logo="https://drive.google.com/uc?id=1SK8FD4Ix6etQivbNUEyRv9UvypslTxXa",HARE KRISHNA
