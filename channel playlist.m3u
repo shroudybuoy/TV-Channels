@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz,https://iptv-org.github.io/epg/guides/in.xml,https://m3u-edit.com/epg-source.php?file=india_tataplay.xml.gz,https://m3u-edit.com/epg-source.php?file=india_dishtv.in.xml,https://m3u-edit.com/epg-source.php?file=IN4.xml.gz"
 #EXTINF:-1 tvg-id="ts52" tvg-name="COLORS" tvg-chno="101" group-title="Entertainment" logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Colors_Transparent_16069908-8494-4eb4-bd40-5afca3969088.png?raw=true",COLORS
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 
@@ -41,7 +41,7 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 #EXTINF:-1 tvg-id="ts1045" tvg-name="SHEMAROO UMANG" tvg-chno="114" group-title="Entertainment" logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Shemaroo-Umang-Transparent.png",SHEMAROO UMANG
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EpicTV.in@SD" tvg-name="EPIC TV" tvg-chno="114" group-title="Entertainment" logo="https://drive.google.com/uc?id=1EReLqNTKFNo-DQnb1Ag2tDrUiLAwdARI",EPIC TV
+#EXTINF:-1 tvg-id="ts1045" tvg-name="EPIC TV" tvg-chno="114" group-title="Entertainment" logo="https://drive.google.com/uc?id=1EReLqNTKFNo-DQnb1Ag2tDrUiLAwdARI",EPIC TV
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 
 
@@ -165,7 +165,7 @@ https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/in
 #EXTINF:-1 tvg-id="ts922" tvg-name="PTC MUSIC" tvg-chno="607" group-title="Music" logo="https://dtil.tmsimg.com/assets/s143682_ld_h15_ab.png",PTC MUSIC
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 
-#EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD" tvg-name="SHEMAROO FILMI GAANE" tvg-chno="608" group-title="Music" logo="https://drive.google.com/uc?id=1pEfC39i71gZmztbE_uuzGNbK6LhgK8-i",SHEMAROO FILMI GAANE
+#EXTINF:-1 tvg-id="ts818" tvg-name="SHEMAROO FILMI GAANE" tvg-chno="608" group-title="Music" logo="https://drive.google.com/uc?id=1pEfC39i71gZmztbE_uuzGNbK6LhgK8-i",SHEMAROO FILMI GAANE
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts96" tvg-name="ZOOM" tvg-chno="609" group-title="Music" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",ZOOM
@@ -174,16 +174,16 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF MUSIC" tvg-chno="610" group-title="Music" logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698978bac4421ebc5336d4/images/logo_20240322_175611_70.png",YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="EPIC MUSIC" tvg-chno="611" group-title="Music" logo="https://drive.google.com/uc?id=1ZN1Xl-8G0AmqQNunwd7Nq0PwYyb7KbIx",EPIC MUSIC
+#EXTINF:-1 tvg-id="ts126" tvg-name="EPIC MUSIC" tvg-chno="611" group-title="Music" logo="https://drive.google.com/uc?id=1ZN1Xl-8G0AmqQNunwd7Nq0PwYyb7KbIx",EPIC MUSIC
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="EpicTV.in@Digital" tvg-name="EPIC MUSIC DIGITAL" tvg-chno="612" group-title="Music" logo="https://drive.google.com/uc?id=1ZN1Xl-8G0AmqQNunwd7Nq0PwYyb7KbIx",EPIC MUSIC DIGITAL
+#EXTINF:-1 tvg-id="ts126" tvg-name="EPIC MUSIC DIGITAL" tvg-chno="612" group-title="Music" logo="https://drive.google.com/uc?id=1ZN1Xl-8G0AmqQNunwd7Nq0PwYyb7KbIx",EPIC MUSIC DIGITAL
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="MUSIC INDIA" tvg-chno="613" group-title="Music" logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png",MUSIC INDIA
 https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="BALLE BALLE" tvg-chno="613" group-title="Music" logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4aadb01f4b52ab459a786f312d9f098d.png",BALLE BALLE
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="BALLE BALLE" tvg-chno="613" group-title="Music" logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4aadb01f4b52ab459a786f312d9f098d.png",BALLE BALLE
 https://mcncdndigital.com/balleballetv/index.m3u8
 
 #EXTINF:-1 tvg-id="ts449" tvg-name="RAMDHENU" tvg-chno="614" group-title="Music" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAMDHENU/images/LOGO_HD/image.png",RAMDHENU
@@ -232,7 +232,7 @@ https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
 #EXTINF:-1 tvg-id="ts353" tvg-name="DY 365" tvg-chno="708" group-title="News" logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png",DY 365
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 
-#EXTINF:-1 tvg-id="News18AssamNorthEast.in@SD" tvg-name="NEWS 18 ASSAM NORTH-EAST" tvg-chno="709" group-title="News" logo="https://images.news18.com/dlxczavtqcctuei/news18/static/images/news18assam-1200x900.png",NEWS 18 ASSAM NORTH-EAST
+#EXTINF:-1 tvg-id="ts68" tvg-name="NEWS 18 ASSAM NORTH-EAST" tvg-chno="709" group-title="News" logo="https://images.news18.com/dlxczavtqcctuei/news18/static/images/news18assam-1200x900.png",NEWS 18 ASSAM NORTH-EAST
 https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
 
 #EXTINF:-1 tvg-id="ts23" tvg-name="NEWS 18 BANGLA" tvg-chno="710" group-title="News" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjxeadBPVYuqrFXeYLG39W81jKx-3HjcOBn8evUDRDlh7zYfanuh1s0Gg&s=10",NEWS 18 BANGLA
@@ -241,7 +241,7 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/mast
 #EXTINF:-1 tvg-id="ts417" tvg-name="NORTHEAST LIVE" tvg-chno="711" group-title="News" logo="https://dtil.tmsimg.com/assets/s143633_ld_h15_aa.png",NORTHEAST LIVE
 https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-id="AssamTalks.in@SD" tvg-name="ASSAM TALKS" tvg-chno="711" group-title="News" logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3beaf67c273e67e441277ecc79b8f8fe.png",ASSAM TALKS
+#EXTINF:-1 tvg-id="ts417" tvg-name="ASSAM TALKS" tvg-chno="711" group-title="News" logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3beaf67c273e67e441277ecc79b8f8fe.png",ASSAM TALKS
 http://tvsen7.aynascope.net/AssamTalks/index.m3u8
 
 #EXTINF:-1 tvg-id="ts418" tvg-name="HORNBILL TV" tvg-chno="713" group-title="News" logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/999d0728ac8b42cfa0d35f660c373a9e.png",HORNBILL TV
@@ -304,13 +304,13 @@ https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1 tvg-id="TravelxpHindi.in" tvg-name="TRAVEL XP HD" tvg-chno="405" group-title="Infotainment" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/travelxp-hd-in.png?raw=true",TRAVEL XP HD
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-name="DISNEY CHANNEL HD" tvg-chno="501" group-title="Kids" logo="https://drive.google.com/uc?id=11OpUQelVKFp3f4tTVbhjlfDckoMKfJQW",DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="ts114" tvg-name="DISNEY CHANNEL HD" tvg-chno="501" group-title="Kids" logo="https://drive.google.com/uc?id=11OpUQelVKFp3f4tTVbhjlfDckoMKfJQW",DISNEY CHANNEL HD
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:C8:6A&stream=1110627&extension=ts&play_token=lTZEfbEU8K
 
-#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-name="DISNEY INTERNATIONAL HD" tvg-chno="502" group-title="Kids" logo="https://dtil.tmsimg.com/assets/s142989_ld_h15_aa.png",DISNEY INTERNATIONAL HD
+#EXTINF:-1 tvg-id="DisneyInternationalHD.in" tvg-name="DISNEY INTERNATIONAL HD" tvg-chno="502" group-title="Kids" logo="https://dtil.tmsimg.com/assets/s142989_ld_h15_aa.png",DISNEY INTERNATIONAL HD
 http://202.70.146.135:8000/play/a04p/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-name="DISNEY" tvg-chno="504" group-title="Kids" logo="https://dtil.tmsimg.com/assets/s159012_ld_h15_aa.png",DISNEY
+#EXTINF:-1 tvg-id="ts114" tvg-name="DISNEY" tvg-chno="504" group-title="Kids" logo="https://dtil.tmsimg.com/assets/s159012_ld_h15_aa.png",DISNEY
 http://202.70.146.135:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="ts138" tvg-name="NICK" tvg-chno="505" group-title="Kids" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",NICK
@@ -340,5 +340,5 @@ https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 #EXTINF:-1 tvg-id="ts43" tvg-name="SANSKAR HD" tvg-chno="580" group-title="Religious" logo="https://drive.google.com/uc?id=18ygTXq6BQsnSUkXDCvLiFPLeQbHR6M7n",SANSKAR HD
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
-#EXTINF:-1 tvg-id="HareKrishna.in@SD" tvg-name="HARE KRISHNA" tvg-chno="512" group-title="Religious" logo="https://drive.google.com/uc?id=1SK8FD4Ix6etQivbNUEyRv9UvypslTxXa",HARE KRISHNA
+#EXTINF:-1 tvg-id="ts45" tvg-name="HARE KRISHNA" tvg-chno="512" group-title="Religious" logo="https://drive.google.com/uc?id=1SK8FD4Ix6etQivbNUEyRv9UvypslTxXa",HARE KRISHNA
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
