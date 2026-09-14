@@ -187,7 +187,7 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 #EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="REPUBLIC BHARAT" tvg-chno="707" group-title="News" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_R_BHARAT/images/LOGO_HD/image.png",REPUBLIC BHARAT
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8
 
-#EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="HINDI KHABAR" tvg-chno="707" group-title="News" logo="https://drive.google.com/uc?id=1AfneqiaBS8c61UEFia41I8i4i6kLTAcz",HINDI KHABAR
+#EXTINF:-1 tvg-id="ts68" tvg-name="HINDI KHABAR" tvg-chno="709" group-title="News" logo="https://drive.google.com/uc?id=1AfneqiaBS8c61UEFia41I8i4i6kLTAcz",HINDI KHABAR
 https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts353" tvg-name="DY 365" tvg-chno="708" group-title="News" logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png",DY 365
