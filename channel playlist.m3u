@@ -87,6 +87,9 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-id="SONYCINE" tvg-name="SONY CINE" tvg-chno="254" group-title="Movies" logo="https://drive.google.com/uc?id=1ZAd2YZ_vXS-t7TB0avSzRpDN8EVXHHte",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="PARAMOUNTMOVIE.in" tvg-name="PARAMOUNT MOVIE" tvg-chno="790" group-title="Movies" logo="https://drive.google.com/uc?id=1elocFMKuly1rA-q4gClPVeCSRJt7Pu44",PARAMOUNT MOVIE
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in" tvg-name="ZEE SOUTH FLIX" tvg-chno="210" group-title="Movies" logo="https://drive.google.com/uc?id=1MdFZdxw-eu4f6JElhE2od9egHEvmsRmt",ZEE SOUTH FLIX
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
