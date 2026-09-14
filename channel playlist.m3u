@@ -84,6 +84,9 @@ http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=t
 #EXTINF:-1 tvg-id="SouthStation.in" tvg-name="SOUTH STATION" tvg-chno="209" group-title="Movies" logo="https://drive.google.com/uc?id=1G0e375QZEbUIIYGXfaT9Mkz8kzToznJC",SOUTH STATION
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 
+#EXTINF:-1 tvg-id="SONYCINE" tvg-name="SONY CINE" tvg-chno="254" group-title="Movies" logo="https://upload.wikimedia.org/wikipedia/pt/d/d5/Cine_Sony_Logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ZeeSouthFlix.in" tvg-name="ZEE SOUTH FLIX" tvg-chno="210" group-title="Movies" logo="https://drive.google.com/uc?id=1MdFZdxw-eu4f6JElhE2od9egHEvmsRmt",ZEE SOUTH FLIX
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
 
