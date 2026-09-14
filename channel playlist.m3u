@@ -195,8 +195,11 @@ https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ts346" tvg-name="DELUXE MUSIC" tvg-chno="658" group-title="Music" logo="https://drive.google.com/uc?id=1TtUAo7rzXjseNLp_pWysDeOlPodJUqNG",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-id="ts349" tvg-name="KN MUSIC" tvg-chno="658" group-title="Music" logo="https://drive.google.com/file/d/1YW6QPBN20kGCjXaz5PJmrkzIPOvCrBgz/view?usp=sharing",KN MUSIC
+#EXTINF:-1 tvg-id="ts349" tvg-name="KN MUSIC" tvg-chno="654" group-title="Music" logo="https://drive.google.com/file/d/1YW6QPBN20kGCjXaz5PJmrkzIPOvCrBgz/view?usp=sharing",KN MUSIC
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ts369" tvg-name="ONE MUSIC" tvg-chno="650" group-title="Music" logo="https://drive.google.com/uc?id=17OcCA1Sl_ZOcBymrhcrn19wNk6NbXqoW",ONE MUSIC
+https://oneapp.b-cdn.net/1080p/index.m3u8
 
 #EXTINF:-1 tvg-id="ts689" tvg-name="AAJ TAK HD" tvg-chno="701" group-title="News" logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aaj%20Tak%20HD.png",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
