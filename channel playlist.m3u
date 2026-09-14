@@ -41,13 +41,13 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 #EXTINF:-1 tvg-id="ts1045" tvg-name="SHEMAROO UMANG" tvg-chno="114" group-title="Entertainment" logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Shemaroo-Umang-Transparent.png",SHEMAROO UMANG
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts554" tvg-name="DANGAL" tvg-chno="107" group-title="Entertainment" logo="https://drive.google.com/uc?id=1HSdQY1aGI58DxN-E7RgES2HNnu0W7FpJ?raw=true",DANGAL
+#EXTINF:-1 tvg-id="ts554" tvg-name="DANGAL" tvg-chno="107" group-title="Entertainment" logo="https://drive.google.com/uc?id=1HSdQY1aGI58DxN-E7RgES2HNnu0W7FpJ",DANGAL
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts554" tvg-name="DANGAL 2" tvg-chno="107" group-title="Entertainment" logo="https://drive.google.com/uc?id=1pUxPb6dDXoPkRzutEAvDa-dIr6Hr0wv-",DANGAL 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts52" tvg-name="DD NATIONAL HD" tvg-chno="101" group-title="Entertainment" logo="https://drive.google.com/uc?id=1mSzGnqQdhabzpjyTE5fWz-8vxS0HwUYi?raw=true",DD NATIONAL HD
+#EXTINF:-1 tvg-id="ts52" tvg-name="DD NATIONAL HD" tvg-chno="101" group-title="Entertainment" logo="https://drive.google.com/uc?id=1mSzGnqQdhabzpjyTE5fWz-8vxS0HwUYi",DD NATIONAL HD
 https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8
 
 
