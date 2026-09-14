@@ -3,7 +3,7 @@
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts15" tvg-name="SONY HD" tvg-chno="102" group-title="Entertainment" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png?raw=true",SONY HD
-http://38.96.178.205/SONYHD/index.m3u8
+https://cloudplay-sonyliv.pages.dev/sethd.m3u8
 
 #EXTINF:-1 tvg-id="ts8" tvg-name="STAR PLUS HD" tvg-chno="103" group-title="Entertainment" logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e87c0874cd6942ff2c6414/images/LANDSCAPE_169/LANDSCAPE_169_BoI5qRl4N_STAR-PLUS-HD.png",STAR PLUS HD
 http://202.70.146.135:8000/play/a009/index.m3u8
