@@ -132,8 +132,11 @@ https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="GREATMOVIES.in" tvg-name="GREAT MOVIES" tvg-chno="908" group-title="Movies" logo="https://drive.google.com/uc?id=1qFoTgSE_W-uRBacGja5hynabvE46Ydua",GREAT MOVIES
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GRAVITASMOVIES.in" tvg-name="GRAVITAS MOVIES" tvg-chno="908" group-title="Movies" logo="https://drive.google.com/uc?id=1YgHhLkWsDHxlbKBT3milec5Y3mvd3Ptr",GRAVITAS MOVIES
+#EXTINF:-1 tvg-id="GRAVITASMOVIES.in" tvg-name="GRAVITAS MOVIES" tvg-chno="948" group-title="Movies" logo="https://drive.google.com/uc?id=1YgHhLkWsDHxlbKBT3milec5Y3mvd3Ptr",GRAVITAS MOVIES
 https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+
+#EXTINF:-1 tvg-id="AXNMOVIES.in" tvg-name="AXN MOVIES" tvg-chno="949" group-title="Movies" logo="https://drive.google.com/uc?id=1e0alVk3pLGIMXQdc7jU3SzGT1MTOGu12",AXN MOVIES
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 
 #EXTINF:-1 tvg-id="ts823" tvg-name="GOLDMINES" tvg-chno="219" group-title="Movies" logo="https://drive.google.com/uc?id=1UfCzOSJiOAQePUBq2az7twOHpGbhelYb",GOLDMINES
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
