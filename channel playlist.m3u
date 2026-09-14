@@ -174,16 +174,16 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="YRFMusic.in" tvg-name="YRF MUSIC" tvg-chno="610" group-title="Music" logo="https://xstreamcp-assets-msp.streamready.in/assets/DISTROTV/LIVECHANNEL/66698978bac4421ebc5336d4/images/logo_20240322_175611_70.png",YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts126" tvg-name="EPIC MUSIC" tvg-chno="611" group-title="Music" logo="https://drive.google.com/uc?id=1ZN1Xl-8G0AmqQNunwd7Nq0PwYyb7KbIx",EPIC MUSIC
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-name="EPIC MUSIC" tvg-chno="611" group-title="Music" logo="https://drive.google.com/uc?id=1ZN1Xl-8G0AmqQNunwd7Nq0PwYyb7KbIx",EPIC MUSIC
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="ts126" tvg-name="EPIC MUSIC DIGITAL" tvg-chno="612" group-title="Music" logo="https://drive.google.com/uc?id=1ZN1Xl-8G0AmqQNunwd7Nq0PwYyb7KbIx",EPIC MUSIC DIGITAL
+#EXTINF:-1 tvg-id="EpicTV.in@Digital" tvg-name="EPIC MUSIC DIGITAL" tvg-chno="612" group-title="Music" logo="https://drive.google.com/uc?id=1ZN1Xl-8G0AmqQNunwd7Nq0PwYyb7KbIx",EPIC MUSIC DIGITAL
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-name="MUSIC INDIA" tvg-chno="613" group-title="Music" logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png",MUSIC INDIA
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="MUSIC INDIA" tvg-chno="613" group-title="Music" logo="https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png",MUSIC INDIA
 https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
 
-#EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-name="BALLE BALLE" tvg-chno="613" group-title="Music" logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4aadb01f4b52ab459a786f312d9f098d.png",BALLE BALLE
+#EXTINF:-1 tvg-id="BalleBalle.in" tvg-name="BALLE BALLE" tvg-chno="613" group-title="Music" logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/4aadb01f4b52ab459a786f312d9f098d.png",BALLE BALLE
 https://mcncdndigital.com/balleballetv/index.m3u8
 
 #EXTINF:-1 tvg-id="ts449" tvg-name="RAMDHENU" tvg-chno="614" group-title="Music" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAMDHENU/images/LOGO_HD/image.png",RAMDHENU
@@ -307,7 +307,7 @@ https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-name="DISNEY CHANNEL HD" tvg-chno="501" group-title="Kids" logo="https://drive.google.com/uc?id=11OpUQelVKFp3f4tTVbhjlfDckoMKfJQW",DISNEY CHANNEL HD
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:C8:6A&stream=1110627&extension=ts&play_token=lTZEfbEU8K
 
-#EXTINF:-1 tvg-id="DisneyInternationalHD.in" tvg-name="DISNEY INTERNATIONAL HD" tvg-chno="502" group-title="Kids" logo="https://dtil.tmsimg.com/assets/s142989_ld_h15_aa.png",DISNEY INTERNATIONAL HD
+#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-name="DISNEY INTERNATIONAL HD" tvg-chno="502" group-title="Kids" logo="https://dtil.tmsimg.com/assets/s142989_ld_h15_aa.png",DISNEY INTERNATIONAL HD
 http://202.70.146.135:8000/play/a04p/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-name="DISNEY" tvg-chno="504" group-title="Kids" logo="https://dtil.tmsimg.com/assets/s159012_ld_h15_aa.png",DISNEY
@@ -340,5 +340,5 @@ https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 #EXTINF:-1 tvg-id="ts43" tvg-name="SANSKAR HD" tvg-chno="580" group-title="Religious" logo="https://drive.google.com/uc?id=18ygTXq6BQsnSUkXDCvLiFPLeQbHR6M7n",SANSKAR HD
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
-#EXTINF:-1 tvg-id="ts45" tvg-name="HARE KRISHNA" tvg-chno="512" group-title="Religious" logo="https://drive.google.com/uc?id=1SK8FD4Ix6etQivbNUEyRv9UvypslTxXa",HARE KRISHNA
+#EXTINF:-1 tvg-id="HareKrishna.in@SD" tvg-name="HARE KRISHNA" tvg-chno="512" group-title="Religious" logo="https://drive.google.com/uc?id=1SK8FD4Ix6etQivbNUEyRv9UvypslTxXa",HARE KRISHNA
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
