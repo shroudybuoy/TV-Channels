@@ -126,6 +126,9 @@ http://59.103.38.46:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="MOVIESTHRILLER.in" tvg-name="MOVIES THRILLER" tvg-chno="218" group-title="Movies" logo="https://drive.google.com/uc?id=1Oret0dsAQUIp9-Ki7rJBzmi9FJE5rBKf",MOVIES THRILLER
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MOVIESACTION.in" tvg-name="MOVIES ACTION" tvg-chno="218" group-title="Movies" logo="https://drive.google.com/uc?id=1HggY-c16wDZ3qPwCPpaLBiajCmqJxBZU",MOVIES ACTION
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ts823" tvg-name="GOLDMINES" tvg-chno="219" group-title="Movies" logo="https://drive.google.com/uc?id=1UfCzOSJiOAQePUBq2az7twOHpGbhelYb",GOLDMINES
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 
