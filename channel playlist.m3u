@@ -9,7 +9,7 @@ http://38.96.178.205/ZEE_TV/index.m3u8
 https://cloudplay-sonyliv.pages.dev/sethd.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-name="STAR PLUS HD" tvg-chno="103" group-title="Entertainment" logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e87c0874cd6942ff2c6414/images/LANDSCAPE_169/LANDSCAPE_169_BoI5qRl4N_STAR-PLUS-HD.png",STAR PLUS HD
-http://202.70.146.135:8000/play/a009/index.m3u8
+http://103.229.254.25:7001/play/a09z/index.m3u8
 
 #EXTINF:-1 tvg-id="AndTV.in@HD" tvg-name="&TV HD" tvg-chno="104" group-title="Entertainment" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/and-tv-hd-in.png?raw=true",&TV HD
 http://202.70.146.135:8000/play/a06c/index.m3u8
@@ -151,13 +151,12 @@ https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 
 #EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-name="9X TASHAN" tvg-chno="602" group-title="Music" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/9x-tashan-in.png?raw=true",9X TASHAN
-https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD" tvg-name="9X JHAKAAS" tvg-chno="603" group-title="Music" logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png",9X JHAKAAS
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-name="9XM" tvg-chno="604" group-title="Music" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png",9XM
-https://streams.tangotv.in/9XM/ORIGIN/index.m3u8
+https://wiselp.wiseplayout.com/9XM/master.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U MUSIC" tvg-chno="605" group-title="Music" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/b4u-music-in.png?raw=true",B4U MUSIC
 https://cdn.pishow.tv/ott/live/415/master.m3u8
@@ -198,7 +197,7 @@ https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ts346" tvg-name="DELUXE MUSIC" tvg-chno="658" group-title="Music" logo="https://drive.google.com/uc?id=1TtUAo7rzXjseNLp_pWysDeOlPodJUqNG",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-id="ts349" tvg-name="KN MUSIC" tvg-chno="654" group-title="Music" logo="https://drive.google.com/uc?id=1YW6QPBN20kGCjXaz5PJmrkzIPOvCrBgz",KN MUSIC
+#EXTINF:-1 tvg-id="ts349" tvg-name="KN MUSIC" tvg-chno="654" group-title="Music" logo="https://drive.google.com/file/d/1YW6QPBN20kGCjXaz5PJmrkzIPOvCrBgz/view?usp=sharing",KN MUSIC
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ts369" tvg-name="ONE MUSIC" tvg-chno="650" group-title="Music" logo="https://drive.google.com/uc?id=17OcCA1Sl_ZOcBymrhcrn19wNk6NbXqoW",ONE MUSIC
@@ -208,7 +207,7 @@ https://oneapp.b-cdn.net/1080p/index.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 #EXTINF:-1 tvg-id="ZeeNews.in@SD" tvg-name="ZEE NEWS" tvg-chno="702" group-title="News" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-news-in.png?raw=true",ZEE NEWS
-https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+https://dt3lrqnyx3dks.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-id="IndiaTV.in@SD" tvg-name="INDIA TV" tvg-chno="703" group-title="News" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png",INDIA TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
@@ -217,7 +216,7 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/NDTVIndia.m3u8
 
 #EXTINF:-1 tvg-id="News24.in@SD" tvg-name="NEWS 24" tvg-chno="705" group-title="News" logo="https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png",NEWS 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+http://tvsen5.aynascope.net/News24/index.m3u8
 
 #EXTINF:-1 tvg-id="ts36" tvg-name="NEWS NATION" tvg-chno="706" group-title="News" logo="https://dtil.tmsimg.com/assets/s143596_ld_h15_aa.png",NEWS NATION
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
@@ -335,7 +334,7 @@ http://103.185.24.134:3001/HUNGAMA/index.m3u8
 http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-name="SONY YAY" tvg-chno="511" group-title="Kids" logo="https://drive.google.com/uc?id=19I0PColTdtV0LzzyrHqqbibCPSXj10Fg",SONY YAY
-http://103.165.93.31:8095/sonyYay/index.m3u8
+https://cloudplay-sonyliv.pages.dev/yay.m3u8
 
 #EXTINF:-1 tvg-id="Aastha.in@SD" tvg-name="ASTHA HD" tvg-chno="512" group-title="Religious" logo="https://dtil.tmsimg.com/assets/s158133_ld_h9_ab.png",ASTHA HD
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
@@ -344,4 +343,4 @@ https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
 #EXTINF:-1 tvg-id="HareKrsnaTV.in@SD" tvg-name="HARE KRISHNA" tvg-chno="512" group-title="Religious" logo="https://drive.google.com/uc?id=1SK8FD4Ix6etQivbNUEyRv9UvypslTxXa",HARE KRISHNA
-https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8
