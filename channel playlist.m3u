@@ -429,7 +429,7 @@ http://202.70.146.135:8000/play/a04p/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-name="DISNEY" tvg-chno="503" group-title="Kids" logo="https://dtil.tmsimg.com/assets/s159012_ld_h15_aa.png",DISNEY
 http://202.70.146.135:8000/play/a01q/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-name="NICK" tvg-chno="504" group-title="Kids" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",NICK
+#EXTINF:-1 tvg-id="Nick.in" tvg-name="NICK" tvg-chno="504" group-title="Kids" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",NICK
 http://103.185.24.134:3001/NICK/index.m3u8
 
 #EXTINF:-1 tvg-id="NickHDPlus.in@HD" tvg-name="NICK HD+" tvg-chno="505" group-title="Kids" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_HDSYMPLUS/images/LOGO_HD/image.png",NICK HD+
@@ -441,7 +441,7 @@ http://103.185.24.134:3001/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="Sonic.in@SD" tvg-name="SONIC" tvg-chno="507" group-title="Kids" logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sonic%20Nickelodeon.png",SONIC
 http://103.185.24.134:3001/SONIC/index.m3u8
 
-#EXTINF:-1 tvg-id="HungamaTV.in@SD" tvg-name="HUNGAMA" tvg-chno="508" group-title="Kids" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png",HUNGAMA
+#EXTINF:-1 tvg-id="Hungama.in" tvg-name="HUNGAMA" tvg-chno="508" group-title="Kids" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png",HUNGAMA
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="SuperHungama.in@SD" tvg-name="SUPER HUNGAMA" tvg-chno="509" group-title="Kids" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png",SUPER HUNGAMA
