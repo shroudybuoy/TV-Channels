@@ -5,7 +5,10 @@
 #EXTINF:-1 tvg-id="Colors.in@SD" tvg-name="COLORS" tvg-chno="101" group-title="Entertainment" logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Colors_Transparent_16069908-8494-4eb4-bd40-5afca3969088.png?raw=true",COLORS
 http://51.75.127.199:3141/colorssd/index.m3u8
 
-#EXTINF:-1 tvg-id="ZeeTV.in" tvg-name="ZEE TV" tvg-chno="102" group-title="Entertainment" logo="https://drive.google.com/uc?id=1i1dxUy4Az16wlbJ65fQczq0IbGknTV-p",ZEE TV
+#EXTINF:-1 tvg-id="Colors.in@HD" tvg-name="COLORS HD" tvg-chno="101" group-title="Entertainment" logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Colors_Transparent_16069908-8494-4eb4-bd40-5afca3969088.png?raw=true",COLORS HD
+http://103.151.60.162:2122/play/a02q/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-name="ZEE TV" tvg-chno="102" group-title="Entertainment" logo="https://drive.google.com/uc?id=1i1dxUy4Az16wlbJ65fQczq0IbGknTV-p",ZEE TV
 http://51.75.127.199:3141/zeetv/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-name="ZEE TV HD" tvg-chno="102" group-title="Entertainment" logo="https://drive.google.com/uc?id=1i1dxUy4Az16wlbJ65fQczq0IbGknTV-p",ZEE TV HD
