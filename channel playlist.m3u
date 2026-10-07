@@ -98,10 +98,10 @@ https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF:-1 tvg-id="ColorsCineplex.in@HD" tvg-name="COLORS CINEPLEX HD" tvg-chno="207" group-title="Movies" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/colors-cineplex-hd-in.png?raw=true",COLORS CINEPLEX HD
 http://51.75.127.199:3141/colorscineplexhd/index.m3u8
 
-#EXTINF:-1 tvg-id="ColorsCineplex.in@HD" tvg-name="COLORS CINEPLEX SUPERHITS" tvg-chno="207" group-title="Movies" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/colors-cineplex-hd-in.png?raw=true",COLORS CINEPLEX BOLLYWOOD
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-name="COLORS CINEPLEX SUPERHITS" tvg-chno="207" group-title="Movies" logo="https://drive.google.com/uc?id=1v2VOH877U07nsWNrWaT27vY6_b5RBL0N",COLORS CINEPLEX SUPERHITS
 http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
 
-#EXTINF:-1 tvg-id="ColorsCineplex.in@HD" tvg-name="COLORS CINEPLEX BOLLYWOOD" tvg-chno="207" group-title="Movies" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/colors-cineplex-hd-in.png?raw=true",COLORS CINEPLEX BOLLYWOOD
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-name="COLORS CINEPLEX BOLLYWOOD" tvg-chno="207" group-title="Movies" logo="https://drive.google.com/uc?id=1z2tS44H3yZAdehua0L_wUBa8_CeE93BM",COLORS CINEPLEX BOLLYWOOD
 http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="AndXplor.in@HD" tvg-name="&XPLOR HD" tvg-chno="208" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",&XPLOR HD
@@ -131,7 +131,7 @@ https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U MOVIES" tvg-chno="216" group-title="Movies" logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png",B4U MOVIES
 https://cdn.pishow.tv/ott/live/419/master.m3u8
 
-#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-name="STAR UTSAV MOVIES" tvg-chno="104" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e87c0874cd6942ff2c6414/images/LANDSCAPE_169/LANDSCAPE_169_BoI5qRl4N_STAR-PLUS-HD.png",STAR UTSAV MOVIES
+#EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="STAR UTSAV MOVIES" tvg-chno="104" group-title="Movies" logo="https://drive.google.com/uc?id=1cOZFpheYEwoc4txS9E0M9eA6BpMH97ci",STAR UTSAV MOVIES
 http://51.75.127.199:3141/starutsavmovies/index.m3u8
 
 #EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-name="STAR GOLD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR GOLD
