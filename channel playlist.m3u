@@ -17,7 +17,7 @@ http://38.96.178.205/ZEE_TV/index.m3u8
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-name="SONY HD" tvg-chno="103" group-title="Entertainment" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png?raw=true",SONY HD
 http://38.96.178.205/SONYHD/index.m3u8
 
-#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-name="STAR UTSAV" tvg-chno="104" group-title="Entertainment" logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e87c0874cd6942ff2c6414/images/LANDSCAPE_169/LANDSCAPE_169_BoI5qRl4N_STAR-PLUS-HD.png",STAR UTSAV
+#EXTINF:-1 tvg-id="StarUtsav.in@SD" tvg-name="STAR UTSAV" tvg-chno="104" group-title="Entertainment" logo="https://drive.google.com/uc?id=12TbN6SEjf0Gz2zaZVmyYzrMj04qTclnY",STAR UTSAV
 http://51.75.127.199:3141/starutsav/index.m3u8
 
 #EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-name="STAR PLUS HD" tvg-chno="104" group-title="Entertainment" logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e87c0874cd6942ff2c6414/images/LANDSCAPE_169/LANDSCAPE_169_BoI5qRl4N_STAR-PLUS-HD.png",STAR PLUS HD
