@@ -3,7 +3,7 @@
 # ===== ENTERTAINMENT =====
 
 #EXTINF:-1 tvg-id="Colors.in@SD" tvg-name="COLORS" tvg-chno="101" group-title="Entertainment" logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Colors_Transparent_16069908-8494-4eb4-bd40-5afca3969088.png?raw=true",COLORS
-http://51.75.127.199:3141/colorssd/index.m3u8
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-name="COLORS HD" tvg-chno="101" group-title="Entertainment" logo="https://drive.google.com/uc?id=1kILPiRiSBYV3A65j7VG3FokE_cIWvDcM",COLORS HD
 http://103.151.60.162:2122/play/a02q/index.m3u8?hls
