@@ -95,7 +95,7 @@ http://107.167.16.138/sonymax2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="ZeeComedyNation.in@HD" tvg-name="ZEE COMEDY NATION" tvg-chno="206" group-title="Movies" logo="https://drive.google.com/uc?id=1-AbFb2nitA-2mIInxMXUpS0g31ClUCoO",ZEE COMEDY NATION
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ColorsCineplex.in@HD" tvg-name="COLORS CINEPLEX HD" tvg-chno="207" group-title="Movies" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/colors-cineplex-hd-in.png?raw=true",COLORS CINEPLEX HD
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-name="COLORS CINEPLEX HD" tvg-chno="207" group-title="Movies" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/colors-cineplex-hd-in.png?raw=true",COLORS CINEPLEX HD
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-name="COLORS CINEPLEX SUPERHITS" tvg-chno="207" group-title="Movies" logo="https://drive.google.com/uc?id=1v2VOH877U07nsWNrWaT27vY6_b5RBL0N",COLORS CINEPLEX SUPERHITS
