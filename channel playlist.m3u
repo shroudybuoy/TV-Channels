@@ -81,7 +81,7 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-name="SONY MAX HD" tvg-chno="202" group-title="Movies" logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png",SONY MAX HD
-http://103.151.60.162:2122/play/a015/index.m3u8?hls
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 
 #EXTINF:-1 tvg-id="ZeeCinema.in@SD" tvg-name="ZEE CINEMA" tvg-chno="203" group-title="Movies" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-cinema-in.png?raw=true",ZEE CINEMA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
