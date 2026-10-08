@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://103.151.60.162:2122/play/a02q/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-name="ZEE TV" tvg-chno="102" group-title="Entertainment" logo="https://drive.google.com/uc?id=1UBvJJOorXJiAziRe2tmRzKtXop1HjtEv",ZEE TV
-http://51.75.127.199:3141/zeetv/index.m3u8
+http://103.151.60.162:2122/play/a01u/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-name="ZEE TV HD" tvg-chno="102" group-title="Entertainment" logo="https://drive.google.com/uc?id=1i1dxUy4Az16wlbJ65fQczq0IbGknTV-p",ZEE TV HD
 http://38.96.178.205/ZEE_TV/index.m3u8
