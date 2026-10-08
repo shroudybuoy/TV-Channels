@@ -87,7 +87,7 @@ http://103.151.60.162:2122/play/a014/index.m3u8?hls
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinema.in@HD" tvg-name="ZEE CINEMA HD" tvg-chno="204" group-title="Movies" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-cinema-hd-in.png?raw=true",ZEE CINEMA HD
-http://103.151.60.162:2122/play/a012/index.m3u8?hls
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-name="SONY MAX 2" tvg-chno="205" group-title="Movies" logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png",SONY MAX 2
 http://107.167.16.138/sonymax2/index.m3u8?token=test
