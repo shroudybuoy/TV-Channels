@@ -15,7 +15,7 @@ http://103.151.60.162:2122/play/a01u/index.m3u8?hls
 http://38.96.178.205/ZEE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-name="SONY HD" tvg-chno="103" group-title="Entertainment" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png?raw=true",SONY HD
-http://38.96.178.205/SONYHD/index.m3u8
+http://103.151.60.162:2122/play/a015/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="StarUtsav.in@SD" tvg-name="STAR UTSAV" tvg-chno="104" group-title="Entertainment" logo="https://drive.google.com/uc?id=1zMekMs_fRGJYJpSrPiJtD0XGYeJX6xpb",STAR UTSAV
 http://51.75.127.199:3141/starutsav/index.m3u8
