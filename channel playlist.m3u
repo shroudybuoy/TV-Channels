@@ -92,6 +92,9 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-name="SONY MAX 2" tvg-chno="205" group-title="Movies" logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png",SONY MAX 2
 http://107.167.16.138/sonymax2/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="AllTimeMovies.in" tvg-name="ALL TIME MOVIES" tvg-chno="206" group-title="Movies" logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/All-Time-Movies-Logo_2000_X_1125_Transpharent.png",ALL TIME MOVIES
+https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
+
 #EXTINF:-1 tvg-id="ZeeComedyNation.in@HD" tvg-name="ZEE COMEDY NATION" tvg-chno="206" group-title="Movies" logo="https://drive.google.com/uc?id=1-AbFb2nitA-2mIInxMXUpS0g31ClUCoO",ZEE COMEDY NATION
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 
@@ -143,13 +146,13 @@ http://103.185.24.134:3001/Star-Gold/index.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-name="STAR GOLD 2 HD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR GOLD 2 HD
 http://103.151.60.162:2122/play/a01v/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-name="STAR GOLD SELECT HD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR GOLD SELECT HD
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-name="STAR GOLD SELECT HD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR GOLD SELECT HD
 http://51.75.127.199:3141/stargoldselecthd/index.m3u8
 
-#EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-name="STAR MOVIES HD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR MOVIES HD
+#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-name="STAR MOVIES HD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR MOVIES HD
 http://103.151.60.162:2122/play/a02k/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-name="STAR MOVIES SELECT HD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR MOVIES SELECT HD
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-name="STAR MOVIES SELECT HD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR MOVIES SELECT HD
 http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeAction.in@SD" tvg-name="ZEE ACTION" tvg-chno="218" group-title="Movies" logo="https://drive.google.com/uc?id=1d7NJCpS17NYiaz89ZNkQBLT1urtsnHMN",ZEE ACTION
