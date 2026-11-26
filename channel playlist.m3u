@@ -28,7 +28,7 @@ http://38.96.178.205/SONYHD/index.m3u8
 http://163.61.226.31:9981/stream/channelid/894286890?profile=pass
 
 #EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-name="STAR PLUS HD" tvg-chno="104" group-title="Entertainment" logo="https://xstreamcp-assets-msp.streamready.in/assets/HOTSTARLIVETV/LIVECHANNEL/66e87c0874cd6942ff2c6414/images/LANDSCAPE_169/LANDSCAPE_169_BoI5qRl4N_STAR-PLUS-HD.png",STAR PLUS HD
-http://103.185.24.134:3001/Star-Plus/index.m3u8
+https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 
 #EXTINF:-1 tvg-id="AndTV.in@HD" tvg-name="&TV HD" tvg-chno="105" group-title="Entertainment" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/and-tv-hd-in.png?raw=true",&TV HD
 https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
@@ -67,7 +67,7 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EpicTV.in@Digital" tvg-name="EPIC TV" tvg-chno="116" group-title="Entertainment" logo="https://drive.google.com/uc?id=1EReLqNTKFNo-DQnb1Ag2tDrUiLAwdARI",EPIC TV
-https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+https://d1fodel5fjpe8b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-68r9vf9490xt2/master.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 
 
 #EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-name="DANGAL" tvg-chno="117" group-title="Entertainment" logo="https://drive.google.com/uc?id=1HSdQY1aGI58DxN-E7RgES2HNnu0W7FpJ",DANGAL
@@ -109,10 +109,10 @@ https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-name="COLORS CINEPLEX SUPERHITS" tvg-chno="207" group-title="Movies" logo="https://drive.google.com/uc?id=1v2VOH877U07nsWNrWaT27vY6_b5RBL0N",COLORS CINEPLEX SUPERHITS
-http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8
+http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass
 
 #EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-name="COLORS CINEPLEX BOLLYWOOD" tvg-chno="207" group-title="Movies" logo="https://drive.google.com/uc?id=1z2tS44H3yZAdehua0L_wUBa8_CeE93BM",COLORS CINEPLEX BOLLYWOOD
-http://51.75.127.199:3141/colorscineplexbollywood/index.m3u8
+http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass
 
 #EXTINF:-1 tvg-id="AndXplor.in@HD" tvg-name="&XPLOR HD" tvg-chno="208" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",&XPLOR HD
 http://51.75.127.199:3141/andxplorehd/index.m3u8
@@ -139,7 +139,7 @@ https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-name="B4U MOVIES" tvg-chno="216" group-title="Movies" logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png",B4U MOVIES
-https://cdn.pishow.tv/ott/live/419/master.m3u8
+https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="STAR UTSAV MOVIES" tvg-chno="104" group-title="Movies" logo="https://drive.google.com/uc?id=1cOZFpheYEwoc4txS9E0M9eA6BpMH97ci",STAR UTSAV MOVIES
 http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
@@ -202,7 +202,7 @@ https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
 https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-chno="230" group-title="Movies" logo="https://drive.google.com/uc?id=1v65YnPzlDY9SM6XJ3EwIOe0EI4WfTWDj",AMC
-http://23.239.31.26:8989/amc/index.m3u8
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BET CINEMA" tvg-chno="231" group-title="Movies" logo="https://drive.google.com/uc?id=1MzAY9yfCG-I6wMfSfGkY5Zy2Mjpe7DHM",BET CINEMA
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
@@ -281,7 +281,7 @@ https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 
 #EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4U MUSIC" tvg-chno="605" group-title="Music" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/b4u-music-in.png?raw=true",B4U MUSIC
-https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV.in@HD" tvg-name="MTV INDIA" tvg-chno="606" group-title="Music" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/mtv-in.png?raw=true",MTV INDIA
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
@@ -482,7 +482,7 @@ http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:C8:6A&stream=1110627&extension=
 http://103.151.60.162:2122/play/a018/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-name="DISNEY" tvg-chno="503" group-title="Kids" logo="https://dtil.tmsimg.com/assets/s159012_ld_h15_aa.png",DISNEY
-http://51.75.127.199:3141/disneychannel/index.m3u8
+http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Nick.in" tvg-name="NICK" tvg-chno="504" group-title="Kids" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",NICK
 http://103.185.24.134:3001/NICK/index.m3u8
