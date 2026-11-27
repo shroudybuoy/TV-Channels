@@ -163,7 +163,7 @@ http://103.151.60.162:2122/play/a02k/index.m3u8?hls
 http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeAction.in@SD" tvg-name="ZEE ACTION" tvg-chno="218" group-title="Movies" logo="https://drive.google.com/uc?id=1d7NJCpS17NYiaz89ZNkQBLT1urtsnHMN",ZEE ACTION
-http://107.167.16.138/zeeaction/index.m3u8?token=test
+http://103.175.73.12:8080/live/270/270_0.m3u8
 
 #EXTINF:-1 tvg-id="ZeeClassic.in@SD" tvg-name="ZEE CINE CLASSIC" tvg-chno="219" group-title="Movies" logo="https://drive.google.com/uc?id=1NeLDqG4l_N7Vx-BEMXcfAEyCPXxGAPhG",ZEE CINE CLASSIC
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
@@ -488,7 +488,7 @@ http://103.151.60.162:2122/play/a018/index.m3u8?hls
 http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="Nick.in" tvg-name="NICK" tvg-chno="504" group-title="Kids" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",NICK
-http://103.185.24.134:3001/NICK/index.m3u8
+http://103.148.210.190:8000/play/a0zu
 
 #EXTINF:-1 tvg-id="NickHDPlus.in@HD" tvg-name="NICK HD+" tvg-chno="505" group-title="Kids" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_HDSYMPLUS/images/LOGO_HD/image.png",NICK HD+
 http://51.75.127.199:3141/nickhd/index.m3u8
