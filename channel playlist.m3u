@@ -403,6 +403,9 @@ https://cloudplay-sonyliv.pages.dev/ten5.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-name="SONY SPORTS TEN 5 HD" tvg-chno="311" group-title="Sports" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD/images/LOGO_HD/image.png",SONY SPORTS TEN 5 HD
 http://103.151.60.162:2122/play/a028/index.m3u8?hls
 
+#EXTINF:-1 tvg-id="TNAWRESTLING.in@HD" tvg-name="TNA WRESTLING" tvg-chno="311" group-title="Sports" logo="https://images.seeklogo.com/logo-png/22/1/tna-wrestling-logo-png_seeklogo-221870.png",TNA WRESTLING
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
+
 # ===== INFOTAINMENT =====
 
 #EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-chno="402" group-title="Infotainment" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NATIONAL_GEOGRAPHIC_CHANNEL_HD/images/LOGO_HD/image.png",NATIONAL GEOGRAPHIC HD
