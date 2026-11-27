@@ -398,7 +398,7 @@ https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/mast
 https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" tvg-name="ASSAM TALKS" tvg-chno="714" group-title="News" logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/3beaf67c273e67e441277ecc79b8f8fe.png",ASSAM TALKS
-http://tvsen7.aynascope.net/AssamTalks/index.m3u8
+https://fta.ektv.in/live/675/master.m3u8
 
 #EXTINF:-1 tvg-id="HornbillTV.in@SD" tvg-name="HORNBILL TV" tvg-chno="715" group-title="News" logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/999d0728ac8b42cfa0d35f660c373a9e.png",HORNBILL TV
 https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
