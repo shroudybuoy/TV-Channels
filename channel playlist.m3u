@@ -6,20 +6,8 @@
 #EXTINF:-1 tvg-id="Colors.in@SD" tvg-name="COLORS" tvg-chno="101" group-title="Entertainment" logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Colors_Transparent_16069908-8494-4eb4-bd40-5afca3969088.png?raw=true",COLORS
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Colors.in@HD" tvg-name="COLORS HD" tvg-chno="101" group-title="Entertainment" logo="https://drive.google.com/uc?id=1kILPiRiSBYV3A65j7VG3FokE_cIWvDcM",COLORS HD
-http://103.135.253.32:8080/Color-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Colors.in@HD" tvg-name="COLORS HD" tvg-chno="101" group-title="Entertainment" logo="https://drive.google.com/uc?id=1kILPiRiSBYV3A65j7VG3FokE_cIWvDcM",COLORS HD
-http://103.151.60.162:2122/play/a02q/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-name="ZEE TV" tvg-chno="102" group-title="Entertainment" logo="https://drive.google.com/uc?id=1UBvJJOorXJiAziRe2tmRzKtXop1HjtEv",ZEE TV
-http://103.151.60.162:2122/play/a01u/index.m3u8?hls
-
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-name="ZEE TV HD" tvg-chno="102" group-title="Entertainment" logo="https://drive.google.com/uc?id=1i1dxUy4Az16wlbJ65fQczq0IbGknTV-p",ZEE TV HD
 http://38.96.178.205/ZEE_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@SD" tvg-name="SONY" tvg-chno="103" group-title="Entertainment" logo="https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png",SONY
-http://103.151.60.162:2122/play/a015/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-name="SONY HD" tvg-chno="103" group-title="Entertainment" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png?raw=true",SONY HD
 http://38.96.178.205/SONYHD/index.m3u8
@@ -87,15 +75,6 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-name="SONY MAX" tvg-chno="201" group-title="Movies" logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png",SONY MAX
 https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
 
-#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-name="SONY MAX HD" tvg-chno="202" group-title="Movies" logo="https://dtil.tmsimg.com/assets/s159098_ld_h15_aa.png",SONY MAX HD
-http://103.185.24.134:3001/SonyMAX/index.m3u8
-
-#EXTINF:-1 tvg-id="ZeeCinema.in@HD" tvg-name="ZEE CINEMA" tvg-chno="203" group-title="Movies" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-cinema-in.png?raw=true",ZEE CINEMA
-http://103.151.60.162:2122/play/a012/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="ZeeCinema.in@HD" tvg-name="ZEE CINEMA HD" tvg-chno="204" group-title="Movies" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/zee-cinema-hd-in.png?raw=true",ZEE CINEMA HD
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-name="SONY MAX 2" tvg-chno="205" group-title="Movies" logo="https://dtil.tmsimg.com/assets/s143801_ld_h15_aa.png",SONY MAX 2
 http://107.167.16.138/sonymax2/index.m3u8?token=test
 
@@ -144,23 +123,9 @@ https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m
 #EXTINF:-1 tvg-id="StarUtsavMovies.in" tvg-name="STAR UTSAV MOVIES" tvg-chno="104" group-title="Movies" logo="https://drive.google.com/uc?id=1cOZFpheYEwoc4txS9E0M9eA6BpMH97ci",STAR UTSAV MOVIES
 http://163.61.226.31:9981/stream/channelid/1225596390?profile=pass
 
-#EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-name="STAR GOLD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR GOLD
-http://51.75.127.199:3141/stargold/index.m3u8
+#EXTINF:-1 tvg-id="StarAction.in" tvg-name="STAR ACTION" tvg-chno="104" group-title="Movies" logo="https://drive.google.com/uc?id=1mCq3ZQnt_PIs0Kurj9Ol4-MvGZ4tOh62",STAR ACTION
+http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8
 
-#EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-name="STAR GOLD HD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR GOLD HD
-http://103.185.24.134:3001/Star-Gold/index.m3u8
-
-#EXTINF:-1 tvg-id="StarGold2.in@HD" tvg-name="STAR GOLD 2 HD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR GOLD 2 HD
-http://103.151.60.162:2122/play/a01v/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-name="STAR GOLD SELECT HD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR GOLD SELECT HD
-http://51.75.127.199:3141/stargoldselecthd/index.m3u8
-
-#EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-name="STAR MOVIES HD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR MOVIES HD
-http://103.151.60.162:2122/play/a02k/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-name="STAR MOVIES SELECT HD" tvg-chno="217" group-title="Movies" logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD/images/LOGO_HD/image.png",STAR MOVIES SELECT HD
-http://103.151.60.162:2122/play/a02l/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="ZeeAction.in@SD" tvg-name="ZEE ACTION" tvg-chno="218" group-title="Movies" logo="https://drive.google.com/uc?id=1d7NJCpS17NYiaz89ZNkQBLT1urtsnHMN",ZEE ACTION
 http://103.175.73.12:8080/live/270/270_0.m3u8
@@ -170,12 +135,6 @@ https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 
 #EXTINF:-1 tvg-id="" tvg-name="MY TIME MOVIE" tvg-chno="220" group-title="Movies" logo="https://drive.google.com/uc?id=1QCAgSw5rq22yq3gNTWbN7F-VguaEoW-H",MY TIME MOVIE
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-name="SONY PIX HD" tvg-chno="221" group-title="Movies" logo="https://dtil.tmsimg.com/assets/s143803_ld_h15_aa.png",SONY PIX HD
-http://103.151.60.162:2122/play/a01d/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="MNX.in@HD" tvg-name="MNX" tvg-chno="222" group-title="Movies" logo="https://github.com/tv-logo/tv-logos/blob/main/countries/india/mnx-in.png?raw=true",MNX
-http://59.103.38.46:8000/play/a052/index.m3u8
 
 #EXTINF:-1 tvg-id="MoviesThriller.sa@SD" tvg-name="HALLMARK MOVIES & MORE" tvg-chno="223" group-title="Movies" logo="https://drive.google.com/uc?id=1Oret0dsAQUIp9-Ki7rJBzmi9FJE5rBKf",HALLMARK MOVIES & MORE
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
@@ -203,12 +162,6 @@ https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-chno="230" group-title="Movies" logo="https://drive.google.com/uc?id=1v65YnPzlDY9SM6XJ3EwIOe0EI4WfTWDj",AMC
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BET CINEMA" tvg-chno="231" group-title="Movies" logo="https://drive.google.com/uc?id=1MzAY9yfCG-I6wMfSfGkY5Zy2Mjpe7DHM",BET CINEMA
-https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="BET COMEDY MOVIES" tvg-chno="232" group-title="Movies" logo="https://drive.google.com/uc?id=1P-ZubXy4SG0YUliV01Jf2memUkuaRVBW",BET COMEDY MOVIES
-https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
 
 #EXTINF:-1 tvg-id="Bollygold.in@HD" tvg-name="BOLLYGOLD" tvg-chno="233" group-title="Movies" logo="https://drive.google.com/uc?id=1mSAJ6cekq2tXSC5k1Nk2QopZ5sklxZYB",BOLLYGOLD
 https://jmp2.uk/stvp-IN4000600Q
